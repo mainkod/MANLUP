@@ -1,7 +1,7 @@
 MANLUP (Machine Language Processing)
 
  * Author: Abdul Rahman Sha Naan (Rahman Sha) · Malaysia
- * License: MANLUP © 2025-2026
+ * Copyright (c) 2025 Abdul Rahman Sha
  * Version: 3.1.0 MULTI-LANGUAGE
  * Email: a.rahmansha@gmail.com
 
