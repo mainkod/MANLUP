@@ -1,10 +1,3 @@
-Baik Rahman Sha.
-Di bawah ini ialah versi **README Technical Heavy (Developer-Focused)** untuk GitHub MANLUP.
-
-Struktur ini lebih sesuai untuk dev, contributor, dan enterprise integrator.
-
----
-
 # 🧠 MANLUP
 
 ## Man Neutral Language Understanding Engine
